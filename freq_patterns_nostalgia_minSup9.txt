@@ -1,0 +1,3242 @@
+gentle:2
+gentle	no:2
+jesus:2
+jesus	town:2
+job:2
+job	graduated:2
+leave:2
+leave	find:2
+simple:2
+touches:2
+rare:2
+shop:2
+places:2
+places	only:2
+places	its:2
+only	places	its:2
+seen:2
+gentleman:2
+gentleman	jim:2
+lps:2
+momma:2
+jims:2
+moms:2
+crash:2
+crash	reeves:2
+crash	plane:2
+reeves	crash	plane:2
+join:2
+join	record:2
+join	home:2
+record	join	home:2
+join	left:2
+record	join	left:2
+home	join	left:2
+record	home	join	left:2
+join	army:2
+record	join	army:2
+home	join	army:2
+left	join	army:2
+record	home	join	army:2
+record	left	join	army:2
+home	left	join	army:2
+record	home	left	join	army:2
+told:2
+wore:2
+drinks:2
+drinks	few:2
+captured:2
+spent:2
+caught:2
+straight:2
+western:2
+western	australia:2
+law:2
+law	father:2
+september:2
+does:2
+does	early:2
+fix:2
+gosh:2
+jones:2
+put:2
+granddad:2
+johnny:2
+face:2
+throw:2
+phoenix:2
+north:2
+attention:2
+beatles:2
+beatles	did:2
+work:2
+funeral:2
+imagine:2
+side:2
+usa:2
+kitchen:2
+standing:2
+motown:2
+black:2
+college:2
+guys:2
+steve:2
+steve	fantastic:2
+winwood:2
+winwood	fantastic:2
+winwood	steve:2
+fantastic	winwood	steve:2
+mama:2
+longer:2
+longer	no:2
+remains:2
+grandad:2
+listens:2
+stuck:2
+toddler:2
+artist:2
+maybe:2
+charts:2
+memorable:2
+ask:2
+nan:2
+men:2
+usually:2
+choice:2
+guess:2
+melancholy:2
+worked:2
+knows:2
+knows	might:2
+moment:2
+mothers:2
+ran:2
+let:2
+talk:2
+less:2
+looks:2
+voiceand:2
+local:2
+gets:2
+hello:2
+included:2
+list:2
+romance:2
+pm:2
+pm	home:2
+christmas:2
+gram:2
+orbison:2
+orbison	roy:2
+aunt:2
+haha:2
+pictures:2
+ya:2
+cat:2
+decades:2
+impossible:2
+drop:2
+front:2
+november:2
+done:2
+done	well:2
+quality:2
+superb:2
+perfection:2
+shot:2
+ss:2
+roll:2
+roll	rock:2
+weekends:2
+dec:2
+rocking:2
+unbelievable:2
+recall:2
+definitely:2
+grandpa:2
+lingers:2
+seven:2
+uncles:2
+primary:2
+papa:2
+saying:2
+saying	high:2
+british:2
+exact:2
+exact	record:2
+blast:2
+blast	past:2
+far:2
+presley:2
+presley	elvis:2
+reminding:2
+loves:2
+loves	im:2
+philippines:2
+tried:2
+flashback:2
+granddaughter:2
+closing:2
+own:2
+seventies:2
+seventies	wow:2
+seventies	mind:2
+wow	seventies	mind:2
+teary:2
+magic:2
+dream:2
+mattered:2
+realize:2
+realize	by:2
+realize	more:2
+by	realize	more:2
+future:2
+spend:2
+especially:2
+london:2
+london	disco:2
+pleasure:2
+birthday:2
+incurable:2
+incurable	romantic:2
+dated:2
+karaoke:2
+aged:2
+ruby:2
+magical:2
+fan:2
+looked:2
+nickname:2
+nickname	been:2
+nickname	sang:2
+been	nickname	sang:2
+nickname	brother:2
+been	nickname	brother:2
+sang	nickname	brother:2
+been	sang	nickname	brother:2
+brewer:2
+teresa:2
+teresa	brewer:2
+page:2
+whole:2
+eckstine:2
+eckstine	billy:2
+bye:2
+boone:2
+green:2
+hilarious:2
+ames:2
+ed:2
+ed	ames:2
+stumbled:2
+voices:2
+baby:2
+literally:2
+brain:2
+fifty:2
+fifty	since:2
+above:2
+adore:2
+beloved:2
+experience:2
+fifties:2
+sixties:2
+lullaby:2
+lullaby	sang:2
+goodbye:2
+stopped:2
+million:2
+million	them:2
+funny:2
+try:2
+enjoy:2
+dickie:2
+dickie	lovely:2
+dickie	singer:2
+lovely	dickie	singer:2
+broken:2
+missing:2
+missing	know:2
+missing	dont:2
+know	missing	dont:2
+holds:2
+garbage:2
+davis:2
+crush:2
+human:2
+cancer:2
+thankful:2
+clock:2
+clock	could:2
+clock	turn:2
+could	clock	turn:2
+film:2
+graduation:2
+graduation	year:2
+graduation	high:2
+year	graduation	high:2
+junior:2
+junior	high:2
+second:2
+meaning:2
+across:2
+snowy:2
+waiting:2
+winter:2
+winter	snowy:2
+moved:2
+moved	away:2
+shame:2
+shame	them:2
+due:2
+due	or:2
+thirteen:2
+windows:2
+taught:2
+history:2
+history	handsome:2
+humanity:2
+speakers:2
+speakers	through:2
+buy:2
+meet:2
+meet	single:2
+minute:2
+performed:2
+benson:2
+worry:2
+stationed:2
+stationed	germany:2
+ex:2
+wanted:2
+totally:2
+backyard:2
+stations:2
+albums:2
+incredible:2
+tracks:2
+jr:2
+jr	high:2
+quickly:2
+quickly	by:2
+quickly	past:2
+by	quickly	past:2
+sometimes:2
+sometimes	or:2
+box:2
+air:2
+perform:2
+strike:2
+longing:2
+beat:2
+karens:2
+swear:2
+seems:2
+seems	sad:2
+seems	gone:2
+sad	seems	gone:2
+carefree:2
+change:2
+goosebumps:2
+recently:2
+recently	no:2
+kindergarten:2
+means:2
+smiles:2
+smiles	teenage:2
+mp:2
+mp	player:2
+musics:2
+painful:2
+free:2
+deceased:2
+sixth:2
+afternoon:2
+seat:2
+truly:2
+hey:2
+line:2
+seem:2
+seem	today:2
+seem	sad:2
+today	seem	sad:2
+seem	changed:2
+today	seem	changed:2
+sad	seem	changed:2
+today	sad	seem	changed:2
+seem	rather:2
+today	seem	rather:2
+sad	seem	rather:2
+changed	seem	rather:2
+today	sad	seem	rather:2
+today	changed	seem	rather:2
+sad	changed	seem	rather:2
+today	sad	changed	seem	rather:2
+theres:2
+theres	which:2
+slow:2
+fabulous:2
+trips:2
+strongly:2
+strongly	listened:2
+relate:2
+making:2
+keep:2
+against:2
+among:2
+among	player:2
+among	bought:2
+player	among	bought:2
+cool:2
+inside:2
+struggling:2
+struggling	lyrics:2
+serenity:2
+bar:2
+bar	playing:2
+faces:2
+hollies:2
+hollies	over:2
+hollies	perfect:2
+over	hollies	perfect:2
+yardbirds:2
+italy:2
+george:2
+recorded:2
+lasted:2
+lasted	wedding:2
+build:2
+build	machine:2
+build	need:2
+machine	build	need:2
+marriage:2
+seemed:2
+optimistic:2
+wearing:2
+ready:2
+ready	go:2
+ready	steady:2
+go	ready	steady:2
+ready	watched:2
+go	ready	watched:2
+steady	ready	watched:2
+go	steady	ready	watched:2
+attached:2
+rink:2
+rink	skating:2
+ah:2
+feels:2
+forgot:3
+forgot	about:2
+mr:3
+mr	reeves:2
+appreciate:3
+appreciate	knew:2
+death:3
+death	reeves:2
+jim	death	reeves:2
+death	jim:3
+marry:3
+marry	married:2
+might:3
+might	june:2
+might	year:2
+might	into:2
+year	might	into:2
+lord:3
+jukebox:3
+england:3
+fond:3
+piece:3
+small:3
+small	well:2
+plane:3
+plane	reeves:2
+army:3
+army	record:2
+army	home:2
+record	army	home:2
+army	left:2
+record	army	left:2
+home	army	left:2
+record	home	army	left:2
+favourite:3
+favourite	last:2
+disc:3
+australia:3
+australia	child:2
+blue:3
+asked:3
+asked	name:2
+taken:3
+drums:3
+drums	jim:2
+drums	distant:2
+jim	drums	distant:2
+grandmother:3
+hank:3
+beautifully:3
+written:3
+gold:3
+special:3
+special	way:2
+special	lady:2
+ladies:3
+ladies	other:2
+reconnected:3
+turned:3
+deep:3
+deep	amazing:2
+fathers:3
+sat:3
+sat	while:2
+aunts:3
+aunts	dance:2
+aunts	around:2
+probably:3
+probably	if:2
+stereo:3
+hearts:3
+hearts	name:2
+cd:3
+dads:3
+lived:3
+wonder:3
+gonna:3
+experienced:3
+need:3
+need	machine:2
+favorites:3
+kept:3
+kept	over:2
+kept	about:2
+named:3
+named	started:2
+named	sharing:2
+perfect:3
+perfect	too:2
+over	perfect	too:2
+perfect	over:3
+pain:3
+pain	got:2
+feelings:3
+feelings	living:2
+store:3
+store	name:2
+watched:3
+watched	go:2
+watched	steady:2
+go	watched	steady:2
+believe:3
+believe	cant:2
+fun:3
+greatest:3
+greatest	died:2
+happened:3
+pure:3
+gave:3
+gave	girl:2
+least:3
+next:3
+songthe:3
+reason:3
+whatever:3
+artists:3
+august:3
+roller:3
+waltz:3
+waltz	dance:2
+waltz	last:2
+student:3
+teacher:3
+hand:3
+hand	year:2
+hes:3
+hold:3
+hold	daughter:2
+dance	hold	daughter:2
+hold	dance:3
+happiest:3
+innocence:3
+innocence	go:2
+innocence	trip:2
+go	innocence	trip:2
+sun:3
+sun	playing:2
+cause:3
+youre:3
+relive:3
+relive	your:2
+relive	or:2
+relive	person:2
+relive	person	or:2
+havent:3
+suddenly:3
+suddenly	its:2
+uploading:3
+happier:3
+todays:3
+evokes:3
+twenty:3
+twenty	teenager:2
+twenty	say:2
+teenager	twenty	say:2
+drive:3
+drive	doing:2
+mobile:3
+mobile	has:2
+middle:3
+eye:3
+eye	early:2
+im	eye	early:2
+eye	even:2
+eye	even	im:2
+eye	even	early:2
+im	eye	even	early:2
+eye	if:2
+eye	if	im:2
+eye	gives:2
+eye	gives	im:2
+eye	gives	if:2
+im	eye	gives	if:2
+eye	im:3
+rest:3
+rest	could:2
+rest	wish:2
+could	rest	wish:2
+putting:3
+sounded:3
+warm:3
+warm	live:2
+precious:3
+raised:3
+raised	awesome:2
+steady:3
+steady	go:2
+strong:3
+strong	by:2
+period:3
+period	rip:2
+crazy:3
+mine:3
+melody:3
+lives:3
+lives	through:2
+wise:3
+station:3
+word:3
+word	knew:2
+state:3
+state	high:2
+state	got:2
+state	night:2
+state	night	got:2
+state	brenda:2
+state	brenda	got:2
+state	brenda	night:2
+got	state	brenda	night:2
+sitting:3
+sitting	playing:2
+generation:3
+generation	new:2
+handsome:3
+single:3
+chinese:3
+chinese	english:2
+phone:3
+rpm:3
+rpm	home:2
+rpm	home	record:2
+rpm	did:2
+record	rpm	did:2
+rpm	record:3
+driving:3
+riding:3
+behind:3
+introduced:3
+introduced	behind:2
+close:3
+close	cry:2
+close	eyes:2
+close	last:2
+rather:3
+rather	has:2
+today	rather	has:2
+sad	rather	has:2
+changed	rather	has:2
+today	sad	rather	has:2
+today	changed	rather	has:2
+sad	changed	rather	has:2
+today	sad	changed	rather	has:2
+rather	by:2
+today	rather	by:2
+sad	rather	by:2
+changed	rather	by:2
+has	rather	by:2
+today	sad	rather	by:2
+today	changed	rather	by:2
+today	has	rather	by:2
+sad	changed	rather	by:2
+sad	has	rather	by:2
+changed	has	rather	by:2
+today	sad	changed	rather	by:2
+today	sad	has	rather	by:2
+today	changed	has	rather	by:2
+sad	changed	has	rather	by:2
+today	sad	changed	has	rather	by:2
+rather	gone:2
+today	rather	gone:2
+sad	rather	gone:2
+changed	rather	gone:2
+has	rather	gone:2
+by	rather	gone:2
+today	sad	rather	gone:2
+today	changed	rather	gone:2
+today	has	rather	gone:2
+today	by	rather	gone:2
+sad	changed	rather	gone:2
+sad	has	rather	gone:2
+sad	by	rather	gone:2
+changed	has	rather	gone:2
+changed	by	rather	gone:2
+has	by	rather	gone:2
+today	sad	changed	rather	gone:2
+today	sad	has	rather	gone:2
+today	sad	by	rather	gone:2
+today	changed	has	rather	gone:2
+today	changed	by	rather	gone:2
+today	has	by	rather	gone:2
+sad	changed	has	rather	gone:2
+sad	changed	by	rather	gone:2
+sad	has	by	rather	gone:2
+changed	has	by	rather	gone:2
+today	sad	changed	has	rather	gone:2
+today	sad	changed	by	rather	gone:2
+today	sad	has	by	rather	gone:2
+today	changed	has	by	rather	gone:2
+sad	changed	has	by	rather	gone:2
+today	sad	changed	has	by	rather	gone:2
+rather	looking:2
+today	rather	looking:2
+sad	rather	looking:2
+changed	rather	looking:2
+has	rather	looking:2
+by	rather	looking:2
+gone	rather	looking:2
+today	sad	rather	looking:2
+today	changed	rather	looking:2
+today	has	rather	looking:2
+today	by	rather	looking:2
+today	gone	rather	looking:2
+sad	changed	rather	looking:2
+sad	has	rather	looking:2
+sad	by	rather	looking:2
+sad	gone	rather	looking:2
+changed	has	rather	looking:2
+changed	by	rather	looking:2
+changed	gone	rather	looking:2
+has	by	rather	looking:2
+has	gone	rather	looking:2
+by	gone	rather	looking:2
+today	sad	changed	rather	looking:2
+today	sad	has	rather	looking:2
+today	sad	by	rather	looking:2
+today	sad	gone	rather	looking:2
+today	changed	has	rather	looking:2
+today	changed	by	rather	looking:2
+today	changed	gone	rather	looking:2
+today	has	by	rather	looking:2
+today	has	gone	rather	looking:2
+today	by	gone	rather	looking:2
+sad	changed	has	rather	looking:2
+sad	changed	by	rather	looking:2
+sad	changed	gone	rather	looking:2
+sad	has	by	rather	looking:2
+sad	has	gone	rather	looking:2
+sad	by	gone	rather	looking:2
+changed	has	by	rather	looking:2
+changed	has	gone	rather	looking:2
+changed	by	gone	rather	looking:2
+has	by	gone	rather	looking:2
+today	sad	changed	has	rather	looking:2
+today	sad	changed	by	rather	looking:2
+today	sad	changed	gone	rather	looking:2
+today	sad	has	by	rather	looking:2
+today	sad	has	gone	rather	looking:2
+today	sad	by	gone	rather	looking:2
+today	changed	has	by	rather	looking:2
+today	changed	has	gone	rather	looking:2
+today	changed	by	gone	rather	looking:2
+today	has	by	gone	rather	looking:2
+sad	changed	has	by	rather	looking:2
+sad	changed	has	gone	rather	looking:2
+sad	changed	by	gone	rather	looking:2
+sad	has	by	gone	rather	looking:2
+changed	has	by	gone	rather	looking:2
+today	sad	changed	has	by	rather	looking:2
+today	sad	changed	has	gone	rather	looking:2
+today	sad	changed	by	gone	rather	looking:2
+today	sad	has	by	gone	rather	looking:2
+today	changed	has	by	gone	rather	looking:2
+sad	changed	has	by	gone	rather	looking:2
+today	sad	changed	has	by	gone	rather	looking:2
+rather	today:3
+rather	sad:3
+today	rather	sad:3
+rather	changed:3
+today	rather	changed:3
+sad	rather	changed:3
+today	sad	rather	changed:3
+exactly:3
+cried:3
+cried	getting:2
+elementary:3
+elementary	cried:2
+ill:3
+ill	im:2
+ill	if:2
+im	ill	if:2
+ill	live:2
+ill	gives:2
+ill	gives	im:2
+ill	gives	if:2
+im	ill	gives	if:2
+ill	eye:2
+ill	eye	im:2
+ill	eye	if:2
+im	ill	eye	if:2
+ill	eye	gives:2
+im	ill	eye	gives:2
+if	ill	eye	gives:2
+im	if	ill	eye	gives:2
+finally:3
+finally	found:2
+leaving:3
+leaving	before:2
+loud:3
+fresh:3
+date:3
+stop:3
+stop	tears:2
+scott:3
+scott	rip:2
+scott	john:2
+rip	scott	john:2
+walker:3
+walker	them:2
+walker	brothers:2
+them	walker	brothers:2
+walker	scott:2
+skating:3
+forgotten:4
+forgotten	lovely:2
+graduated:4
+graduated	knew:2
+loving:4
+loving	people:2
+loving	most:2
+comes:4
+comes	or:2
+comes	little:2
+comes	since:2
+comes	into:2
+comes	into	little:2
+tunes:4
+tunes	jim:2
+married:4
+married	year:2
+later	married	year:2
+married	later:3
+months:4
+months	later:2
+months	know:2
+months	dont:2
+know	months	dont:2
+senior:4
+senior	year:3
+senior	high:3
+senior	high	year:2
+concert:4
+coming:4
+everyone:4
+children:4
+children	away:2
+children	sharing:2
+sound:4
+sound	today:2
+sound	well:2
+till:4
+till	them:2
+till	im:2
+till	missed:2
+distant:4
+distant	jim:2
+teens:4
+teens	know:2
+quite:4
+quite	listened:2
+quite	thinking:2
+nearly:4
+nearly	say:2
+nearly	us:2
+nearly	big:2
+us	nearly	big:2
+knowing:4
+knowing	its:2
+knowing	live:2
+knowing	sad:2
+lucky:4
+lucky	such:2
+enough	lucky	such:2
+lucky	see:2
+lucky	see	enough:2
+lucky	live:2
+lucky	live	enough:2
+lucky	era:2
+lucky	enough:3
+smile:4
+track:4
+track	right:2
+trip:4
+trip	go:2
+trip	memory:3
+trip	down:3
+memory	trip	down:3
+trip	lane:3
+memory	trip	lane:3
+down	trip	lane:3
+memory	down	trip	lane:3
+show:4
+show	lost:2
+broke:4
+broke	heart:2
+guy:4
+guy	because:2
+woman:4
+woman	most:2
+woman	more:2
+woman	later:2
+woman	later	more:2
+golden:4
+group:4
+dear:4
+dear	year:2
+dear	brenda:2
+year	dear	brenda:2
+unforgettable:4
+unforgettable	memory:2
+unforgettable	which:2
+lol:4
+true:4
+true	year:2
+true	got:2
+year	true	got:2
+true	later:2
+year	true	later:2
+got	true	later:2
+year	got	true	later:2
+true	found:2
+year	true	found:2
+got	true	found:2
+later	true	found:2
+year	got	true	found:2
+year	later	true	found:2
+got	later	true	found:2
+year	got	later	true	found:2
+couldnt:4
+forget:4
+released:4
+took:4
+took	early:2
+took	live:2
+person:4
+person	or:2
+person	did:2
+person	because:2
+anyone:4
+anyone	has:2
+anyone	or:2
+has	anyone	or:2
+pop:4
+pop	record:2
+over	pop	record:2
+pop	over:3
+anything:4
+end:4
+end	dance:2
+help:4
+help	kid:2
+help	doing:2
+holiday:4
+daddy:4
+daddy	father:2
+myself:4
+myself	or:2
+saturday:4
+saturday	home:2
+saturday	morning:2
+reminiscing:4
+engelbert:4
+bad:4
+bad	since:2
+bad	also:2
+floor:4
+floor	man:2
+dance	floor	man:2
+floor	around:2
+floor	dance:3
+mid:4
+mid	im:2
+already:4
+boyfriend:4
+boyfriend	away:2
+boyfriend	over:2
+marvelous:4
+anymore:4
+anymore	because:2
+anymore	past:2
+anymore	tears:2
+anymore	tears	because:2
+anymore	them:2
+july:4
+pilot:4
+moments:4
+moments	marvelous:2
+disco:4
+disco	dancing:2
+parties:4
+parties	other:2
+else:4
+else	anyone:2
+version:4
+off:4
+off	where:2
+off	no:2
+beach:4
+beach	almost:2
+beach	being:2
+two:4
+two	say:2
+two	older:2
+crying:4
+girls:4
+may:4
+may	been:2
+germany:4
+emotions:4
+emotions	records:2
+lee:4
+lee	brenda:4
+flies:4
+goes:4
+goes	by:2
+goes	did:2
+popular:4
+popular	through:2
+others:4
+others	age:2
+others	through:2
+money:4
+money	or:2
+money	dont:2
+money	dont	or:2
+money	today:2
+money	no:2
+money	girl:2
+money	girl	no:2
+although:4
+although	about:2
+although	know:2
+although	didnt:2
+saw:4
+saw	little:2
+saw	long:2
+saw	nostalgia:2
+saw	nostalgia	long:2
+saw	teenager:2
+saw	went:2
+machine:4
+machine	go:2
+angel:5
+angel	listened:2
+town:5
+town	teenager:2
+town	grew:2
+everyday:5
+able:5
+able	could:2
+able	enough:2
+able	enough	could:2
+able	country:2
+able	well:2
+weeks:5
+weeks	few:2
+lane:5
+lane	down:3
+memory	lane	down:3
+lane	memory:5
+grandfather:5
+grandfather	child:2
+grandfather	heaven:2
+album:5
+thinking:5
+thinking	been:2
+thinking	over:2
+thinking	id:2
+shes:5
+shes	them:2
+shes	bring:2
+them	shes	bring:2
+shes	dont:2
+shes	growing:2
+shes	growing	dont:2
+husband:5
+husband	met:2
+husband	away:2
+started:5
+started	away:2
+started	been:2
+mary:5
+mary	mother:2
+mary	mother	name:2
+mary	them:2
+mary	both:2
+mary	both	them:2
+mary	too:2
+mary	name:3
+give:5
+jimmy:5
+jimmy	could:2
+jimmy	wish:2
+could	jimmy	wish:2
+jimmy	been:2
+jimmy	died:2
+jimmy	since:2
+jimmy	sang:2
+jimmy	sang	since:2
+jimmy	boy:2
+jimmy	boy	since:2
+jimmy	boy	sang:2
+since	jimmy	boy	sang:2
+jimmy	sharing:2
+jimmy	sharing	since:2
+jimmy	sharing	sang:2
+since	jimmy	sharing	sang:2
+jimmy	sharing	boy:2
+since	jimmy	sharing	boy:2
+sang	jimmy	sharing	boy:2
+since	sang	jimmy	sharing	boy:2
+jimmy	brother:2
+yrs:5
+watching:5
+watching	dancing:2
+wife:5
+wife	met:2
+wife	went:2
+wife	together:2
+head:5
+head	lot:2
+should:5
+should	feel:2
+soul:5
+soul	know:2
+laura:5
+laura	name:2
+thing:5
+thing	high:2
+thing	did:2
+thing	most:2
+learned:5
+learned	know:2
+learned	even:2
+learned	even	know:2
+learned	english:2
+learned	english	know:2
+learned	english	even:2
+know	learned	english	even:2
+learned	because:2
+learned	away:2
+kids:5
+kids	by:2
+kids	bringing:2
+kids	real:2
+kids	real	bringing:2
+different:5
+different	im:2
+different	said:2
+different	something:2
+different	something	said:2
+different	why:2
+watch:5
+watch	tv:2
+hard:5
+band:5
+teenage:5
+teenage	has:2
+teenage	its:2
+teenage	going:2
+roy:5
+roy	sang:2
+roy	few:2
+roy	said:2
+roy	said	sang:2
+lonely:5
+whenever:5
+uk:5
+uk	see:3
+uk	went:3
+see	uk	went:3
+lots:5
+sleep:5
+sleep	been:2
+sleep	night:2
+getting:5
+must:5
+must	bring:2
+must	people:2
+must	knew:2
+hope:5
+hope	us:2
+hope	lost:2
+hope	karen:2
+hope	karen	lost:2
+remembered:5
+ones:5
+brothers:5
+brothers	them:2
+simpler:5
+romantic:5
+romantic	around:2
+romantic	early:2
+romantic	think:2
+romantic	think	early:2
+romantic	long:2
+billy:5
+billy	long:2
+billy	boy:2
+billy	boy	long:2
+billy	see:2
+ive:5
+ive	or:2
+ive	or	since:2
+ive	has:2
+since	ive	has:2
+ive	long:2
+ive	since:3
+sisters:5
+sisters	big:2
+english:5
+english	know:2
+english	even:2
+know	english	even:2
+timeless:5
+certainly:5
+certainly	them:2
+grow:6
+sounds:6
+sounds	early:2
+sounds	no:2
+sounds	heart:2
+sounds	go:2
+reminded:6
+reminded	got:2
+reminded	over:2
+reminded	cry:2
+girlfriend:6
+girlfriend	year:2
+girlfriend	later:2
+year	girlfriend	later:2
+girlfriend	same:2
+john:6
+john	them:2
+john	high:2
+john	rip:2
+john	fantastic:3
+party:6
+mums:6
+mums	died:2
+sung:6
+sung	words:2
+sung	while:2
+soon:6
+soon	about:2
+too	soon	about:2
+soon	been:2
+soon	been	too:2
+soon	been	about:2
+too	soon	been	about:2
+soon	more:2
+soon	more	too:2
+soon	us:2
+soon	us	too:2
+soon	us	about:2
+too	soon	us	about:2
+soon	us	been:2
+too	soon	us	been:2
+about	soon	us	been:2
+too	about	soon	us	been:2
+soon	also:2
+soon	or:2
+soon	karen:2
+soon	karen	or:2
+soon	left:2
+soon	left	too:2
+soon	too:4
+bless:6
+bless	since:2
+bless	singer:2
+bless	singer	god:2
+bless	god:4
+liked:6
+liked	or:2
+liked	karen:2
+or	liked	karen:2
+enough:6
+enough	live:2
+enough	see:2
+enough	could:2
+enough	such:2
+enough	country:2
+enough	even:2
+enough	player:2
+enough	player	country:2
+fell:6
+fell	summer:2
+fell	memory:2
+fell	thats:2
+posting:6
+posting	lovely:2
+lady:6
+lady	about:2
+youtube:6
+youtube	your:2
+grandma:6
+grandma	missed:2
+grandma	elvis:2
+glad:6
+glad	well:2
+glad	knew:2
+glad	knew	well:2
+glad	most:2
+glad	im:2
+clearly:6
+clearly	come:3
+tape:6
+tape	cassette:2
+tape	girl:2
+tape	kid:2
+tape	id:2
+turn:6
+turn	could:2
+turn	other:2
+video:6
+video	lot:2
+video	its:2
+video	made:2
+its	video	made:2
+daughter:6
+daughter	dance:2
+daughter	even:2
+daughter	know:2
+daughter	dont:2
+know	daughter	dont:2
+absolutely:6
+absolutely	feel:2
+met:6
+met	went:2
+met	today:2
+part:6
+part	found:2
+part	early:2
+part	year:2
+part	got:2
+year	part	got:2
+part	girl:2
+part	girl	year:2
+part	girl	got:2
+year	part	girl	got:2
+damn:6
+damn	world:2
+damn	high:2
+damn	dance:2
+high	damn	dance:2
+stay:6
+stay	forever:2
+dances:6
+dances	high:2
+dances	year:2
+dances	going:2
+dances	did:3
+though:6
+though	know:2
+though	know	even:2
+though	died:2
+though	by:3
+though	get:3
+though	get	by:2
+though	even:3
+though	even	get:2
+though	think:3
+though	think	by:2
+someone:6
+someone	bring:2
+someone	please:2
+bring	someone	please:2
+something:6
+something	because:2
+something	said:2
+something	other:2
+something	each:2
+something	each	other:2
+something	which:2
+why:6
+why	said:2
+why	girl:2
+why	dont:2
+girl	why	dont:2
+doing:6
+doing	karen:2
+doing	karen	or:2
+doing	has:2
+doing	if:2
+or	doing	if:2
+doing	or:3
+look:6
+look	early:2
+look	dont:2
+look	by:3
+omg:6
+omg	fantastic:2
+club:6
+room:6
+room	kid:2
+room	living:2
+full:6
+heaven:6
+nothing:6
+nothing	them:2
+nothing	high:2
+felt:6
+felt	such:2
+sharing	felt	such:2
+felt	mother:2
+felt	mother	sharing:2
+felt	or:2
+felt	by:2
+felt	by	or:2
+felt	alive:2
+felt	sharing:3
+innocent:6
+innocent	about:2
+innocent	or:2
+innocent	because:2
+fast:6
+fast	sad:2
+grade:6
+grade	year:2
+th	grade	year:2
+grade	their:2
+grade	their	th:2
+grade	th:4
+actually:6
+looking:6
+looking	has:2
+by	looking	has:2
+sad	looking	has:2
+by	sad	looking	has:2
+looking	today:2
+by	looking	today:2
+sad	looking	today:2
+has	looking	today:2
+by	sad	looking	today:2
+by	has	looking	today:2
+sad	has	looking	today:2
+by	sad	has	looking	today:2
+looking	gone:2
+by	looking	gone:2
+sad	looking	gone:2
+has	looking	gone:2
+today	looking	gone:2
+by	sad	looking	gone:2
+by	has	looking	gone:2
+by	today	looking	gone:2
+sad	has	looking	gone:2
+sad	today	looking	gone:2
+has	today	looking	gone:2
+by	sad	has	looking	gone:2
+by	sad	today	looking	gone:2
+by	has	today	looking	gone:2
+sad	has	today	looking	gone:2
+by	sad	has	today	looking	gone:2
+looking	changed:2
+by	looking	changed:2
+sad	looking	changed:2
+has	looking	changed:2
+today	looking	changed:2
+gone	looking	changed:2
+by	sad	looking	changed:2
+by	has	looking	changed:2
+by	today	looking	changed:2
+by	gone	looking	changed:2
+sad	has	looking	changed:2
+sad	today	looking	changed:2
+sad	gone	looking	changed:2
+has	today	looking	changed:2
+has	gone	looking	changed:2
+today	gone	looking	changed:2
+by	sad	has	looking	changed:2
+by	sad	today	looking	changed:2
+by	sad	gone	looking	changed:2
+by	has	today	looking	changed:2
+by	has	gone	looking	changed:2
+by	today	gone	looking	changed:2
+sad	has	today	looking	changed:2
+sad	has	gone	looking	changed:2
+sad	today	gone	looking	changed:2
+has	today	gone	looking	changed:2
+by	sad	has	today	looking	changed:2
+by	sad	has	gone	looking	changed:2
+by	sad	today	gone	looking	changed:2
+by	has	today	gone	looking	changed:2
+sad	has	today	gone	looking	changed:2
+by	sad	has	today	gone	looking	changed:2
+looking	sad:3
+by	looking	sad:3
+looking	by:4
+carpenters:6
+carpenters	nice:2
+carpenters	karen:2
+things:7
+things	wish:2
+things	changed:2
+things	its:2
+things	because:2
+things	because	do:2
+things	sad:2
+things	do:3
+both:7
+both	world:2
+both	mother:2
+both	mother	world:2
+both	left:2
+both	left	too:2
+both	away:2
+both	into:2
+both	them:3
+both	too:3
+wedding:7
+wedding	high:2
+wedding	has:2
+wedding	parents:2
+wedding	their:2
+wedding	danced:2
+remembering:7
+oldies:7
+everytime:7
+everytime	been:2
+everytime	too:2
+everytime	kid:2
+sadly:7
+sadly	lost:2
+sadly	words:2
+sadly	died:2
+sadly	world:2
+sadly	missed:3
+sadly	missed	today:2
+sadly	today:4
+morning:7
+morning	go:2
+morning	home:2
+morning	father:2
+sunday:7
+sunday	morning:2
+era:7
+era	them:2
+era	im:2
+era	tune:2
+era	sad:2
+era	their:2
+brilliant:7
+brilliant	them:2
+thought:7
+thought	because:2
+thought	kid:2
+elvis:7
+elvis	around:2
+elvis	been:2
+elvis	mother:2
+everything:7
+everything	parents:2
+family:7
+family	or:2
+family	friends:3
+alive:7
+alive	parents:2
+alive	if:2
+bought:7
+bought	player:2
+bought	record:2
+called:7
+called	got:2
+called	friends:2
+called	has:2
+called	big:2
+called	teen:2
+called	teen	big:2
+called	went:3
+found:7
+found	year:2
+got	found	year:2
+later	found	year:2
+got	later	found	year:2
+found	only:2
+found	lyrics:2
+found	got:3
+found	later:3
+found	later	got:2
+living:7
+living	girl:2
+top:7
+top	hit:2
+gives:7
+gives	did:2
+gives	yesterday:2
+gives	yesterday	if:2
+gives	such:2
+gives	nostalgia:2
+gives	nostalgia	such:2
+gives	im:2
+gives	im	if:2
+gives	if:3
+understand:7
+understand	listened:2
+understand	lyrics:2
+understand	kid:2
+better:7
+better	place:2
+better	world:2
+new:7
+new	through:2
+new	do:2
+new	man:3
+same:7
+same	feeling:2
+same	did:2
+same	got:2
+brenda:7
+brenda	year:2
+brenda	got:2
+brenda	well:2
+brenda	singer:2
+brenda	night:2
+brenda	night	got:2
+brenda	such:2
+brenda	records:2
+cassette:7
+cassette	playing:2
+cassette	nostalgia:2
+playing	cassette	nostalgia:2
+cassette	through:2
+playing	cassette	through:2
+nostalgia	cassette	through:2
+playing	nostalgia	cassette	through:2
+feeling:8
+feeling	year:2
+feeling	nostalgic:2
+feeling	listened:2
+feeling	lyrics:2
+down:8
+down	or:2
+down	into:2
+down	into	later:2
+down	memory:3
+down	later:3
+june:8
+june	memory:2
+sure:8
+sure	jim:2
+sure	reeves:2
+jim	sure	reeves:2
+sure	tv:2
+grandparents:8
+grandparents	hearing:2
+grandparents	being:2
+grandparents	child:2
+each:8
+each	or:2
+each	did:2
+each	know:2
+each	know	other:2
+each	didnt:2
+each	didnt	other:2
+each	didnt	know:2
+other	each	didnt	know:2
+each	other:5
+almost:8
+almost	such:2
+singers:8
+singers	well:2
+singers	live:2
+singers	past:2
+said:8
+said	about:2
+said	see:2
+said	each:2
+said	did:2
+if	said	did:2
+said	away:2
+said	over:2
+said	sang:2
+said	if:3
+rock:8
+rock	girl:2
+rock	know:2
+rock	know	girl:2
+rock	dont:2
+rock	dont	girl:2
+rock	dont	know:2
+girl	rock	dont	know:2
+rock	or:2
+rock	no:2
+rock	no	or:2
+rock	other:2
+rock	other	or:2
+rock	other	no:2
+or	rock	other	no:2
+rock	high:2
+rock	youth:2
+rock	youth	high:2
+together:8
+together	has:2
+together	its:2
+has	together	its:2
+together	see:2
+together	other:2
+together	along:2
+danced:8
+danced	world:2
+danced	high:2
+danced	last:2
+than:8
+than	words:2
+more	than	words:2
+than	say:2
+than	say	more:2
+than	more:4
+please:8
+please	its:2
+please	sweet:2
+please	sweet	its:2
+please	come:2
+please	take:2
+please	bring:2
+sharing:8
+sharing	since:2
+sharing	sang:2
+sharing	sang	since:2
+sharing	boy:2
+sharing	boy	since:2
+sharing	boy	sang:2
+since	sharing	boy	sang:2
+sharing	going:2
+sharing	such:2
+sharing	mother:2
+mind:8
+mind	early:2
+wow	mind	early:2
+mind	wow:3
+another:8
+another	memory:2
+another	left:2
+another	has:2
+say:8
+say	has:2
+say	while:2
+say	or:2
+say	teenager:2
+say	too:2
+say	too	or:2
+say	older:2
+say	more:2
+say	big:2
+say	later:2
+find:9
+find	little:2
+find	sweet:2
+find	no:2
+find	most:2
+find	or:2
+few:9
+few	away:2
+few	been:2
+away	few	been:2
+few	see:2
+few	only:2
+few	jim:2
+only	few	jim:2
+few	live:2
+few	house:2
+few	house	live:2
+few	think:2
+few	also:2
+few	before:2
+few	before	also:2
+few	awesome:2
+few	brother:2
+few	brother	awesome:2
+player:9
+player	them:2
+player	them	record:2
+player	reeves:2
+player	reeves	record:2
+player	reeves	jim:2
+record	player	reeves	jim:2
+player	home:2
+player	home	record:2
+player	over:2
+player	over	record:2
+player	country:2
+player	get:2
+player	get	record:2
+player	jim:3
+record	player	jim:3
+player	record:6
+left:9
+left	about:2
+left	us:2
+left	us	too:2
+left	karen:2
+left	record:2
+left	home:2
+record	left	home:2
+left	too:3
+left	sad:3
+amazing:9
+amazing	over:2
+amazing	while:2
+amazing	its:2
+wow	amazing	its:2
+amazing	come:2
+amazing	come	wow:2
+amazing	your:2
+amazing	most:2
+amazing	world:2
+amazing	feel:2
+amazing	wow:3
+along:9
+along	its:2
+along	going:2
+along	once:2
+along	through:2
+id:9
+id	or:2
+id	over:2
+id	about:2
+year	id	about:2
+id	been:2
+id	more:2
+id	more	year:2
+id	more	about:2
+year	id	more	about:2
+id	too:2
+id	too	been:2
+id	also:2
+id	also	year:2
+id	also	about:2
+year	id	also	about:2
+id	also	more:2
+year	id	also	more:2
+about	id	also	more:2
+year	about	id	also	more:2
+id	such:2
+id	early:2
+id	mother:2
+id	year:4
+until:9
+until	later:2
+until	didnt:2
+until	little:2
+until	home:2
+until	home	playing:2
+until	playing:3
+yes:9
+yes	little:2
+yes	or:2
+little	yes	or:2
+yes	into:2
+yes	oh:2
+yes	remind:2
+records:9
+records	playing:2
+records	little:2
+records	got:2
+records	year:2
+records	or:2
+place:9
+place	wish:2
+place	world:2
+place	your:2
+place	did:2
+place	fantastic:2
+place	girl:2
+place	feel:2
+place	where:2
+place	make:3
+cant:9
+cant	because:2
+cant	during:2
+cant	even:2
+cant	go:2
+cant	kid:2
+cant	tears:2
+cant	im:2
+cant	oh:2
+cant	before:2
+right:9
+right	here:2
+right	about:2
+right	early:2
+right	lovely:2
+right	lovely	early:2
+right	dance:2
+karen:9
+karen	bringing:2
+karen	us:2
+karen	gone:2
+karen	way:2
+karen	sad:2
+karen	cry:2
+karen	cry	lost:2
+karen	lost:3
+karen	rip:3
+karen	or:3
+also:10
+also	since:2
+also	well:2
+also	girl:2
+also	lost:2
+also	lost	year:2
+also	by:2
+also	get:2
+also	think:2
+also	think	more:2
+also	over:2
+also	record:2
+also	which:2
+also	which	over:2
+also	jim:2
+also	about:2
+year	also	about:2
+more	also	about:2
+year	more	also	about:2
+also	mother:2
+also	house:2
+also	house	mother:2
+also	or:2
+also	year:3
+also	more:3
+also	more	year:2
+into:10
+into	them:2
+into	mother:2
+into	people:2
+into	name:2
+into	name	mother:2
+into	or:2
+into	year:2
+into	see:2
+into	later:2
+into	little:2
+into	go:2
+before:10
+before	or:2
+before	year:2
+before	also:2
+before	oh:2
+before	past:2
+god:10
+god	been:2
+god	singer:2
+god	only:2
+god	jim:2
+god	since:2
+tune:10
+tune	sweet:2
+tune	them:2
+tune	by:2
+home:10
+home	did:2
+home	dont:2
+home	brother:2
+home	them:2
+home	over:2
+home	went:2
+home	year:2
+home	playing:3
+home	record:4
+awesome:10
+awesome	memory:2
+awesome	rip:2
+kind:10
+kind	know:2
+real:10
+real	go:2
+real	sad:2
+real	record:2
+real	record	sad:2
+real	bringing:2
+real	high:2
+real	well:2
+use:10
+use	since:2
+use	such:2
+use	th:2
+tv:10
+tv	such:2
+tv	think:2
+tv	going:2
+tv	year:2
+tv	year	or:2
+tv	name:2
+tv	name	about:2
+tv	into:2
+tv	brought:2
+tv	about:3
+tv	or:3
+tv	or	about:2
+changed:10
+changed	high:2
+changed	oh:2
+changed	people:2
+changed	before:2
+changed	before	oh:2
+changed	wish:2
+changed	if:2
+changed	which:2
+changed	which	if:2
+changed	by:2
+sad	changed	by:2
+has	changed	by:2
+today	changed	by:2
+sad	has	changed	by:2
+sad	today	changed	by:2
+has	today	changed	by:2
+sad	has	today	changed	by:2
+changed	gone:2
+sad	changed	gone:2
+has	changed	gone:2
+today	changed	gone:2
+by	changed	gone:2
+sad	has	changed	gone:2
+sad	today	changed	gone:2
+sad	by	changed	gone:2
+has	today	changed	gone:2
+has	by	changed	gone:2
+today	by	changed	gone:2
+sad	has	today	changed	gone:2
+sad	has	by	changed	gone:2
+sad	today	by	changed	gone:2
+has	today	by	changed	gone:2
+sad	has	today	by	changed	gone:2
+changed	bring:2
+changed	bring	tears:2
+changed	boy:2
+changed	tears:3
+changed	today:3
+changed	today	has:2
+sad	changed	today	has:2
+changed	today	sad:3
+changed	has:3
+changed	has	sad:2
+changed	sad:4
+hit:10
+hit	year:2
+hit	going:2
+hit	more:2
+hit	us:2
+hit	its:2
+hit	big:2
+friends:10
+friends	high:2
+friends	away:2
+friends	past:2
+away	friends	past:2
+younger:10
+younger	lot:2
+younger	about:2
+teen:10
+teen	big:2
+teen	going:2
+teen	brought:2
+teen	go:2
+teen	friends:2
+here:10
+here	father:2
+here	classic:2
+here	friends:2
+here	come:2
+brother:10
+brother	away:2
+brother	got:2
+brother	got	been:2
+brother	awesome:2
+brother	sang:2
+brother	sang	been:2
+brother	died:2
+brother	name:2
+brother	been:3
+night:10
+night	got:2
+night	dancing:2
+night	high:2
+night	since:2
+night	girl:2
+night	girl	high:2
+night	do:2
+night	last:2
+friend:10
+friend	over:2
+friend	them:2
+friend	since:2
+friend	high:2
+friend	girl:2
+friend	girl	high:2
+friend	where:2
+friend	where	lost:2
+friend	cry:2
+lost	friend	cry:2
+friend	lost:3
+bringing:10
+bringing	record:3
+knew:10
+knew	been:2
+knew	sang:2
+been	knew	sang:2
+knew	name:2
+knew	other:2
+knew	well:2
+knew	about:2
+knew	because:2
+knew	only:2
+knew	or:2
+only	knew	or:2
+sister:10
+sister	little:2
+sister	away:2
+sister	early:2
+sister	because:2
+sister	later:2
+sister	older:2
+sister	cry:2
+sister	see:2
+sister	big:2
+once:10
+once	come:2
+once	go:2
+once	th:2
+once	where:2
+once	wish:2
+more	once	wish:2
+yesterday	once	wish:2
+more	yesterday	once	wish:2
+once	yesterday:6
+more	once	yesterday:6
+once	more:7
+summer:10
+summer	its:2
+summer	no:2
+summer	or:2
+summer	high:2
+summer	girl:2
+summer	dance:2
+summer	year:3
+didnt:11
+didnt	teenager:2
+didnt	because:2
+know	didnt	because:2
+didnt	or:4
+didnt	or	know:3
+didnt	know:6
+words:11
+words	which:2
+words	big:2
+words	its:2
+words	heart:2
+words	away:2
+words	could:2
+words	more:2
+words	missed:2
+words	well:3
+words	today:3
+born:11
+born	sang:2
+born	memory:2
+born	know:2
+born	later:2
+well	born	later:2
+born	or:2
+born	today:2
+or	born	today:2
+born	missed:2
+born	singer:2
+born	well:3
+house:11
+house	little:2
+dont	house	little:2
+house	them:2
+dont	house	them:2
+little	house	them:2
+dont	little	house	them:2
+house	playing:2
+dont	house	playing:2
+little	house	playing:2
+them	house	playing:2
+dont	little	house	playing:2
+dont	them	house	playing:2
+little	them	house	playing:2
+dont	little	them	house	playing:2
+house	over:2
+house	record:2
+house	dance:2
+house	child:2
+house	live:2
+house	around:2
+house	mother:2
+house	dont:4
+late:11
+late	early:2
+late	im:2
+late	around:2
+late	bring:2
+late	later:2
+late	us:2
+late	away:2
+remind:11
+remind	country:2
+remind	cry:2
+remind	forever:2
+remind	forever	cry:2
+remind	last:3
+going:11
+going	by:2
+going	year:2
+going	has:2
+going	sang:2
+going	since:3
+going	their:3
+name:11
+name	about:2
+name	them:2
+name	if:2
+name	has:2
+name	going:2
+name	died:2
+name	or:2
+name	or	mother:2
+name	mother:3
+want:11
+want	go:2
+want	today:2
+want	since:2
+want	age:2
+want	because:2
+want	feel:2
+want	make:2
+want	make	because:2
+want	people:3
+big:11
+big	did:2
+big	where:2
+big	well:2
+big	about:2
+big	us:2
+big	later:2
+big	could:2
+other:11
+other	long:2
+other	nostalgia:2
+other	where:2
+other	or:2
+other	no:2
+other	no	or:2
+other	know:2
+other	know	didnt:2
+other	child:2
+other	because:2
+other	has:3
+other	didnt:3
+classic:11
+youth:11
+youth	them:2
+youth	most:2
+youth	most	high:2
+youth	high:3
+which:11
+which	sad:2
+which	today:2
+which	if:2
+which	lyrics:2
+which	lyrics	today:2
+which	been:2
+which	us:2
+which	im:2
+which	even:2
+which	well:2
+over	which	well:2
+which	country:2
+which	over:3
+thats:11
+thats	or:2
+thats	by:2
+thats	by	or:2
+thats	playing:2
+thats	over:2
+thats	record:2
+thats	later:2
+thats	memory:4
+lost:11
+lost	got:2
+lost	made:2
+lost	where:2
+lost	last:2
+lost	while:2
+lost	while	us:2
+lost	yesterday:2
+lost	forever:2
+lost	come:2
+lost	year:3
+lost	us:3
+lost	cry:3
+went:11
+went	them:2
+went	girl:2
+went	go:2
+went	during:2
+went	where:2
+went	think:2
+went	see:3
+went	little:3
+went	such:3
+went	got:3
+through:11
+through	or:2
+through	by:2
+through	year:2
+through	year	by:2
+through	nostalgia:2
+through	nostalgia	playing:2
+through	only:2
+through	while:2
+through	going:2
+through	more:2
+through	since:2
+through	us:2
+through	playing:3
+through	past:3
+nice:11
+nice	listened:2
+nice	bring:2
+older:11
+older	little:2
+older	or:2
+older	by:2
+older	by	or:2
+older	playing:2
+older	playing	or:2
+older	playing	by:2
+or	older	playing	by:2
+older	sang:2
+older	going:2
+sang	older	going:2
+car:11
+car	way:2
+car	only:2
+car	know:2
+around:12
+around	memory:2
+around	sweet:2
+around	dance:2
+around	missed:2
+around	missed	died:2
+around	age:2
+around	mother:2
+around	child:2
+around	too:2
+around	too	died:2
+around	early:2
+around	most:2
+around	most	early:2
+around	died:3
+grew:12
+grew	heart:2
+grew	jim:2
+reeves	grew	jim:2
+grew	reeves:3
+people:12
+people	little:2
+people	most:2
+people	age:2
+people	age	little:2
+people	do:2
+people	wish:2
+people	feel:2
+people	missed:2
+people	them:2
+people	did:2
+people	world:2
+think:12
+think	most:2
+think	most	early:2
+think	around:2
+think	around	early:2
+think	around	most:2
+early	think	around	most:2
+think	about:2
+think	more:2
+think	sad:2
+think	even:2
+think	little:2
+think	early:3
+think	by:3
+your:12
+your	did:2
+your	get:2
+your	got:2
+your	or:2
+your	today:2
+your	know:2
+your	do:2
+your	rip:2
+your	come:2
+your	eyes:3
+your	us:3
+fantastic:12
+fantastic	live:2
+fantastic	lot:2
+forever:12
+forever	them:2
+forever	cry:3
+forever	last:3
+gone:12
+gone	has:2
+by	gone	has:2
+sad	gone	has:2
+by	sad	gone	has:2
+gone	today:2
+by	gone	today:2
+sad	gone	today:2
+has	gone	today:2
+by	sad	gone	today:2
+by	has	gone	today:2
+sad	has	gone	today:2
+by	sad	has	gone	today:2
+gone	rip:2
+gone	get:3
+gone	sad:3
+gone	sad	by:2
+gone	them:3
+gone	by:4
+eyes:12
+eyes	know:2
+eyes	brought:3
+eyes	brought	tears:3
+eyes	them:3
+eyes	them	tears:2
+eyes	tears:7
+lyrics:12
+lyrics	wish:2
+today	lyrics	wish:2
+lyrics	sweet:2
+lyrics	did:2
+lyrics	listened:2
+lyrics	today:3
+dancing:12
+dancing	do:2
+dancing	boy:2
+th:12
+th	such:2
+th	forever:2
+th	year:2
+th	has:2
+th	away:3
+their:12
+their	has:2
+their	no:2
+their	year:2
+their	rip:2
+their	during:3
+their	th:3
+age:13
+age	sweet:2
+age	sweet	little:2
+age	early:2
+age	early	little:2
+age	early	sweet:2
+little	age	early	sweet:2
+age	about:2
+age	because:2
+age	do:2
+age	today:2
+age	little:3
+age	died:3
+age	parents:3
+father:13
+father	mother:2
+father	kid:3
+while:13
+while	past:2
+while	long:2
+while	mother:2
+while	them:2
+while	most:2
+while	over:2
+while	too:2
+while	too	little:2
+while	playing:2
+while	little:3
+while	us:4
+boy:13
+boy	since:2
+boy	sang:2
+boy	sang	since:2
+boy	high:2
+boy	only:2
+long	boy	only:2
+boy	live:2
+long	boy	live:2
+only	boy	live:2
+long	only	boy	live:2
+boy	long:5
+last:13
+last	made:2
+last	more:2
+last	about:2
+last	such:2
+last	or:3
+last	year:3
+last	dance:3
+even:13
+even	today:2
+even	been:2
+even	where:2
+even	early:2
+even	early	im:2
+even	get:2
+even	dont:2
+even	dont	know:2
+even	dont	im:2
+know	even	dont	im:2
+even	later:2
+even	later	know:2
+even	later	im:2
+know	even	later	im:2
+even	later	dont:2
+know	even	later	dont:2
+im	even	later	dont:2
+know	im	even	later	dont:2
+even	because:2
+even	such:2
+even	if:2
+even	if	im:2
+even	age:3
+even	im:3
+even	im	know:2
+even	know:4
+yesterday:13
+yesterday	about:2
+yesterday	if:2
+yesterday	could:2
+yesterday	could	wish:2
+yesterday	past:2
+yesterday	wish:3
+yesterday	wish	more:2
+yesterday	more:6
+man:13
+man	lot:2
+man	away:2
+man	little:2
+man	dance:2
+man	im:2
+man	been:2
+man	got:2
+man	got	been:2
+man	has:2
+man	year:2
+man	oh:3
+take:13
+take	away:2
+take	them:2
+rip:14
+rip	no:2
+rip	today:2
+rip	lovely:2
+today	rip	lovely:2
+rip	jim:2
+rip	child:2
+rip	reeves:2
+rip	reeves	jim:2
+rip	sweet:2
+later:14
+later	got:2
+year	later	got:2
+later	early:2
+later	girl:2
+later	girl	early:2
+later	well:2
+later	only:2
+later	or:2
+later	or	has:2
+later	or	been:2
+has	later	or	been:2
+later	im:2
+later	know:2
+later	know	im:2
+later	more:2
+later	dont:2
+later	dont	im:2
+later	dont	know:2
+im	later	dont	know:2
+later	away:2
+later	away	since:2
+later	year:3
+later	has:3
+later	been:3
+later	been	has:2
+later	since:3
+later	since	has:2
+make:14
+make	dont:2
+make	sad:2
+make	no:2
+make	its:2
+make	because:2
+make	feel:2
+make	cry:3
+make	where:3
+make	them:3
+dance:14
+dance	has:3
+dance	high:3
+hearing:14
+hearing	little:2
+hearing	girl:2
+little	hearing	girl:2
+hearing	year:2
+hearing	cry:2
+hearing	away:3
+singer:14
+singer	nostalgic:2
+singer	make:2
+singer	wish:2
+singer	today:2
+singer	today	no:2
+singer	well:2
+singer	missed:2
+singer	where:2
+singer	jim:2
+singer	jim	listened:2
+singer	no:3
+singer	lovely:3
+singer	since:3
+singer	listened:3
+singer	listened	since:2
+missed:14
+missed	where:2
+missed	make:2
+missed	make	where:2
+missed	world:2
+missed	died:2
+missed	listened:2
+missed	by:2
+missed	today:3
+made:14
+made	child:2
+made	its:2
+made	got:2
+made	been:2
+made	cry:4
+country:14
+country	kid:2
+country	go:2
+country	child:2
+country	world:2
+country	little:2
+country	girl:2
+country	girl	little:2
+country	over:3
+during:14
+during	year:2
+during	early:2
+during	see:2
+during	well:2
+during	live:2
+growing:14
+growing	away:2
+growing	early:2
+growing	because:2
+growing	during:2
+growing	nostalgia:2
+growing	come:2
+growing	dont:2
+growing	could:2
+growing	past:2
+tears:14
+tears	them:2
+tears	bring:2
+tears	growing:2
+tears	because:2
+tears	past:3
+tears	brought:3
+brought:14
+brought	kid:2
+brought	lot:3
+wow:14
+wow	early:2
+wow	come:2
+wow	only:2
+wow	its:3
+do:15
+do	little:2
+do	playing:2
+do	wish:2
+do	today:2
+do	way:2
+do	because:2
+lot:15
+lot	listened:2
+lot	been:2
+lot	parents:2
+lot	has:2
+lot	little:3
+lot	girl:3
+lot	girl	little:2
+too:15
+too	little:2
+too	sad:2
+too	mother:2
+too	or:2
+too	over:2
+too	more:2
+too	died:2
+too	away:2
+too	high:2
+too	go:2
+too	been:3
+too	been	about:2
+too	us:3
+too	us	about:2
+too	us	been:2
+about	too	us	been:2
+too	about:3
+mother:15
+mother	world:2
+mother	child:2
+mother	such:2
+mother	by:2
+mother	or:3
+mother	has:4
+see:15
+see	cry:2
+see	them:2
+see	year:2
+see	since:2
+see	us:2
+see	been:2
+see	been	could:2
+see	well:2
+see	over:2
+see	over	could:2
+see	over	wish:2
+could	see	over	wish:2
+see	little:2
+see	wish:3
+could	see	wish:3
+see	live:3
+see	could:5
+where:15
+where	girl:2
+where	got:2
+where	since:2
+got	where	since:2
+where	memory:2
+where	no:3
+dont:15
+dont	today:2
+dont	playing:2
+dont	playing	little:2
+dont	playing	them:2
+little	dont	playing	them:2
+dont	get:2
+dont	by:2
+dont	im:2
+dont	im	know:2
+dont	bring:2
+dont	bring	know:2
+dont	or:2
+dont	sweet:2
+dont	no:2
+dont	little:3
+dont	them:3
+dont	them	little:2
+dont	girl:3
+dont	girl	know:2
+dont	know:6
+sang:15
+sang	could:2
+sang	its:2
+sang	away:2
+sang	away	since:2
+sang	long:2
+sang	such:2
+sang	such	been:2
+sang	such	since:2
+been	sang	such	since:2
+sang	has:2
+sang	has	been:2
+sang	since:4
+sang	since	been:2
+sang	been:4
+nostalgia:15
+nostalgia	sweet:2
+nostalgia	lovely:2
+nostalgia	lovely	sweet:2
+nostalgia	playing:2
+nostalgia	such:2
+nostalgia	long:2
+past:15
+past	away:2
+past	its:2
+past	come:2
+past	playing:2
+past	by:2
+past	or:3
+listened:16
+listened	reeves:2
+listened	reeves	jim:2
+listened	only:2
+listened	girl:2
+listened	cry:2
+listened	jim:3
+listened	jim	since:2
+listened	kid:3
+listened	since:4
+heart:16
+heart	most:2
+heart	did:2
+heart	sweet:2
+heart	because:2
+if:16
+if	long:2
+if	early:2
+if	early	long:2
+if	because:2
+if	most:2
+if	about:3
+if	im:3
+if	only:3
+if	or:3
+if	did:4
+live:16
+live	about:2
+live	get:2
+live	im:2
+live	early:2
+live	early	long:2
+live	early	if:2
+long	live	early	if:2
+live	well:2
+live	only:2
+live	only	long:2
+live	reeves:2
+live	reeves	jim:2
+live	got:2
+live	if:3
+live	if	long:2
+live	jim:3
+live	long:4
+world:16
+world	its:2
+world	child:2
+world	wish:2
+world	little:2
+world	today:2
+world	jim:2
+world	live:2
+jim	world	live:2
+died:16
+died	over:2
+died	well:2
+feel:16
+feel	little:2
+feel	today:2
+feel	did:2
+feel	such:2
+feel	its:2
+feel	its	such:2
+feel	sweet:2
+feel	since:2
+feel	child:3
+feel	nostalgic:5
+most:17
+most	did:2
+most	such:2
+most	high:2
+most	them:3
+most	early:3
+get:17
+get	by:2
+get	early:2
+get	more:2
+get	could:2
+get	could	wish:2
+get	did:2
+get	or:2
+get	sad:2
+get	got:2
+get	wish:3
+get	over:3
+get	record:3
+us:17
+us	wish:2
+us	most:2
+us	about:2
+us	year:2
+us	been:2
+us	been	about:2
+us	has:2
+us	lovely:2
+us	early:3
+oh:17
+oh	only:2
+oh	away:2
+oh	little:2
+oh	or:2
+oh	or	because:2
+oh	its:2
+oh	child:2
+oh	sweet:2
+oh	because:4
+come:17
+come	little:2
+come	know:2
+reeves:18
+reeves	only:2
+jim	reeves	only:2
+reeves	memory:2
+jim	reeves	memory:2
+reeves	away:2
+reeves	over:2
+reeves	record:2
+jim	reeves	record:2
+reeves	im:2
+reeves	im	jim:2
+reeves	early:3
+reeves	early	jim:2
+reeves	jim:16
+teenager:18
+teenager	by:2
+teenager	sad:2
+teenager	go:2
+teenager	im:2
+teenager	being:3
+nostalgic:18
+nostalgic	since:2
+nostalgic	sweet:2
+cry:18
+cry	or:2
+parents:18
+parents	such:2
+parents	child:2
+parents	only:2
+parents	little:2
+parents	kid:2
+record:18
+record	sad:2
+record	them:2
+record	its:2
+record	did:2
+record	memory:2
+record	well:3
+record	over:3
+record	jim:3
+way:18
+way	or:2
+way	wish:2
+way	wish	today:2
+way	go:2
+way	go	did:2
+way	today:3
+way	did:3
+more:18
+more	by:2
+more	could:2
+more	wish:2
+more	been:2
+more	about:2
+more	year:2
+about	more	year:2
+know:18
+know	could:2
+know	wish:2
+could	know	wish:2
+know	girl:2
+know	bring:2
+know	them:2
+im	know	them:2
+know	because:2
+know	or:3
+know	im:4
+because:18
+because	or:2
+because	its:2
+because	sad:2
+because	about:2
+girl:18
+girl	them:2
+girl	playing:2
+girl	playing	little:2
+girl	today:2
+girl	im:2
+girl	got:2
+girl	got	year:2
+girl	early:2
+girl	high:3
+girl	no:3
+girl	long:3
+year	girl	long:3
+girl	year:5
+girl	little:5
+early:19
+early	jim:2
+early	could:2
+early	im:2
+early	about:2
+early	year:2
+early	such:2
+early	little:2
+early	sweet:2
+early	sweet	little:2
+early	long:3
+no:19
+no	sweet:2
+no	playing:2
+no	wish:2
+no	wish	or:2
+no	little:2
+no	or:3
+no	or	today:2
+no	today:4
+being:19
+being	little:2
+being	could:2
+being	child:2
+being	kid:2
+go	being	kid:2
+being	by:4
+being	go:5
+did:19
+did	sweet:2
+did	little:2
+did	or:2
+did	by:2
+did	go:2
+did	got:2
+did	today:3
+did	such:3
+lovely:19
+lovely	sweet:2
+lovely	today:2
+lovely	early:2
+lovely	well:2
+lovely	such:3
+sweet:20
+sweet	little:2
+sweet	child:2
+sweet	such:2
+sweet	its:3
+well:20
+well	by:2
+well	high:2
+well	today:2
+well	jim:2
+well	only:2
+well	such:2
+well	over:3
+long:20
+long	high:2
+long	little:2
+long	such:2
+long	such	little:2
+long	since:2
+long	im:2
+long	only:2
+long	got:3
+long	has:3
+long	year:4
+got:21
+got	jim:2
+got	high:2
+got	im:2
+got	sad:2
+got	little:2
+got	been:3
+got	year:3
+over:21
+over	could:2
+over	wish:2
+over	wish	could:2
+over	away:2
+over	about:2
+over	got:2
+jim	over	got:2
+over	little:2
+over	little	playing:2
+over	by:2
+over	them:3
+over	them	playing:2
+over	been:3
+over	or:3
+over	or	playing:2
+over	jim:3
+over	playing:4
+since:21
+since	little:2
+since	little	been:2
+since	im:2
+since	im	or:2
+since	its:2
+since	year:2
+since	kid:2
+since	jim:2
+since	or:3
+since	got:3
+since	such:3
+since	such	been:2
+since	has:4
+since	has	been:2
+since	away:4
+since	away	has:2
+since	been:6
+been:21
+been	could:2
+been	such:2
+been	away:2
+been	sad:2
+been	wish:2
+been	about:2
+been	little:2
+been	its:2
+been	or:3
+has	been	or:3
+been	has:5
+child:22
+child	such:3
+high:22
+high	year:3
+memory:22
+memory	about:2
+memory	or:2
+memory	jim:2
+playing:22
+playing	by:2
+playing	by	or:2
+playing	memory:2
+playing	only:2
+playing	or:3
+playing	them:4
+playing	them	little:2
+playing	little:7
+im:23
+im	about:2
+im	or:2
+im	such:2
+im	away:2
+im	jim:2
+im	them:3
+bring:23
+bring	go:2
+bring	could:2
+bring	wish:2
+bring	wish	could:2
+bring	jim:2
+bring	them:3
+sad:23
+sad	little:2
+sad	such:2
+sad	or:2
+sad	its:2
+sad	has:2
+today	sad	has:2
+by	sad	has:2
+today	by	sad	has:2
+sad	by:3
+sad	by	today:2
+sad	today:4
+jim:24
+jim	such:2
+jim	only:3
+year:24
+year	such:2
+year	about:2
+year	or:3
+year	by:3
+year	by	or:2
+its:24
+its	little:2
+its	such:2
+its	kid:2
+its	has:2
+its	them:2
+its	only:2
+away:24
+away	about:2
+away	them:2
+away	or:2
+away	has:4
+by:24
+by	has:3
+by	or:5
+today:24
+today	by:2
+has	today	by:2
+today	could:2
+today	could	wish:2
+today	go:2
+today	or:3
+today	has:3
+today	such:3
+today	wish:4
+such:25
+such	could:2
+such	little:3
+has:25
+has	only:3
+about:25
+about	only:2
+about	kid:3
+about	little:3
+could:25
+could	about:2
+could	only:2
+could	go:6
+wish:25
+wish	or:2
+wish	go:6
+could	wish	go:6
+wish	could:15
+or:25
+or	little:2
+or	go:2
+or	only:3
+or	has:4
+or	about:4
+kid:26
+kid	go:2
+only:26
+only	go:2
+only	little:3
+them:26
+them	little:2
+go:27
+go	little:3
+little:28

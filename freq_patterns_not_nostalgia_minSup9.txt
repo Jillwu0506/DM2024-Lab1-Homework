@@ -1,0 +1,1908 @@
+lord:2
+relaxed:2
+marry:2
+marry	came:2
+nam:2
+nd:2
+nd	came:2
+reality:2
+receive:2
+receive	blessing:2
+viet:2
+viet	nam:2
+wherever:2
+anytime:2
+begin:2
+mine:2
+distant:2
+distant	jim:2
+distant	drums:2
+jim	distant	drums:2
+melts:2
+older:2
+reminds:2
+treat:2
+audio:2
+book:2
+reading:2
+known:2
+tommy:2
+barry:2
+mix:2
+orchestra:2
+orchestra	barry:2
+songits:2
+alive:2
+folks:2
+drummer:2
+desert:2
+middle:2
+till:2
+wondered:2
+wondered	go:2
+satisfied:2
+gentle:2
+jackson:2
+jackson	michael:2
+learned:2
+relationship:2
+relationship	things:2
+meant:2
+memory:2
+pay:2
+power:2
+spencer:2
+spencer	well:2
+steve:2
+teacher:2
+winwood:2
+tried:2
+recognized:2
+invent:2
+invent	please:2
+machine:2
+machine	please:2
+machine	invent:2
+please	machine	invent:2
+realize:2
+teens:2
+younger:2
+case:2
+point:2
+discover:2
+fabulous:2
+enjoying:2
+evening:2
+tells:2
+singles:2
+singles	single:2
+stands:2
+keeps:2
+tragedy:2
+favourite:2
+favourite	name:2
+happens:2
+compilation:2
+cases:2
+century:2
+seem:2
+delivery:2
+high:2
+notes:2
+american:2
+american	may:2
+statement:2
+taylor:2
+ride:2
+period:2
+comfortable:2
+videos:2
+cover:2
+key:2
+burton:2
+burton	over:2
+burton	james:2
+over	burton	james:2
+liked:2
+biggest:2
+hot:2
+records:2
+strings:2
+heartfelt:2
+performer:2
+performer	roy:2
+popularity:2
+solely:2
+depressed:2
+depressed	being:2
+completely:2
+orbison:2
+january:2
+town:2
+upon:2
+cherish:2
+range:2
+dare:2
+germany:2
+sucks:2
+hank:2
+hank	country:2
+selling:2
+selling	single:2
+falling:2
+dad:2
+knows:2
+ricky:2
+sister:2
+named:2
+named	after:2
+barely:2
+serious:2
+don:2
+married:2
+opinion:2
+rap:2
+waltz:2
+doc:2
+describes:2
+describes	age:2
+describes	golden:2
+age	describes	golden:2
+compose:2
+memorable:2
+genre:2
+amazingly:2
+sweetest:2
+arms:2
+hold:2
+cruel:2
+ironic:2
+worlds:2
+between:2
+feedback:2
+hi:2
+messages:2
+proper:2
+naturally:2
+naturally	almost:2
+etc:2
+millions:2
+grace:2
+orchestration:2
+ruby:2
+retarded:2
+brewer:2
+brewer	hill:2
+mockingbird:2
+mockingbird	hill:2
+spend:2
+instead:2
+instead	into:2
+oldies:2
+permission:2
+remain:2
+eckstine:2
+eckstine	billy:2
+heavenly:2
+exquisite:2
+justice:2
+remarkable:2
+piece:2
+carlos:2
+difference:2
+nine:2
+nine	days:2
+nine	baby:2
+days	nine	baby:2
+musical:2
+naughty:2
+needs:2
+adult:2
+hands:2
+human:2
+names:2
+stupid:2
+download:2
+dislike:2
+jimmy:2
+jimmy	friend:2
+jerry:2
+posted:2
+vale:2
+vale	jerry:2
+commented:2
+room:2
+room	says:2
+apart:2
+na:2
+disturbing:2
+draw:2
+draw	without:2
+imagination:2
+partner:2
+language:2
+versions:2
+sometimes:2
+tony:2
+dickie:2
+dickie	valentine:2
+green:2
+further:2
+international:2
+international	guy:2
+slot:2
+hello:2
+stops:2
+texting:2
+form:2
+bring:2
+crowd:2
+tragic:2
+ending:2
+wanted:2
+wanted	say:2
+felt:2
+tube:2
+actors:2
+interesting:2
+interesting	see:2
+effect:2
+technique:2
+trying:2
+waiting:2
+walk:2
+starts:2
+darkness:2
+birds:2
+during:2
+sometime:2
+present:2
+puts:2
+skeeter:2
+skeeter	davis:2
+intelligent:2
+silver:2
+silver	screen:2
+advance:2
+released:2
+eternal:2
+recognition:2
+personally:2
+hearts:2
+otherwise:2
+iconic:2
+images:2
+entire:2
+whole:2
+arrangement:2
+changes:2
+couples:2
+legends:2
+asking:2
+choir:2
+stereo:2
+originally:2
+originally	does:2
+film:2
+cute:2
+unforgettable:2
+experience:2
+easily:2
+sadder:2
+either:2
+stage:2
+gang:2
+liking:2
+remains:2
+sick:2
+shows:2
+tavares:2
+tavares	living:2
+series:2
+curious:2
+members:2
+yeah:2
+foundation:2
+priceless:2
+drum:2
+honestly:2
+shined:2
+ya:2
+move:2
+tongue:2
+tongue	mother:2
+damn:2
+reincarnated:2
+smile:2
+head:2
+art:2
+effortless:2
+effortless	karen:2
+clearly:2
+gift:2
+question:2
+famous:2
+already:2
+drive:2
+listens:2
+ages:2
+touches:2
+musics:2
+admit:2
+bankrupt:2
+chorus:2
+noticed:2
+peoples:2
+speak:2
+beautifully:2
+state:2
+preserve:2
+preserve	almost:2
+business:2
+carefully:2
+five:2
+melodious:2
+lose:2
+boot:2
+boot	well:2
+fresh:2
+fresh	even:2
+america:2
+couldnt:2
+yourself:2
+straight:2
+shape:2
+race:2
+race	girl:2
+due:2
+due	made:2
+due	band:2
+made	due	band:2
+super:2
+super	few:2
+hollies:2
+took:2
+parallel:2
+parallel	where:2
+whos:2
+went:2
+went	pretty:2
+kid:2
+camera:2
+lead:2
+lead	especially:2
+compare:2
+write:2
+afraid:2
+dude:2
+seriously:2
+beach:2
+boyfriend:2
+husband:2
+backup:2
+california:2
+shirt:2
+tight:2
+tight	mind:2
+lucky:2
+teenage:2
+typical:2
+innocence:2
+girlfriend:2
+simple:2
+valli:2
+valli	brothers:2
+valli	walker:2
+brothers	valli	walker:2
+valli	frankie:2
+brothers	valli	frankie:2
+walker	valli	frankie:2
+brothers	walker	valli	frankie:2
+seasons:2
+seasons	four:2
+technology:2
+recording:2
+theme:2
+less:2
+successful:2
+successful	brothers:2
+successful	walker:2
+brothers	successful	walker:2
+company:2
+righteous:2
+righteous	brothers:2
+righteous	walker:2
+brothers	righteous	walker:2
+format:2
+alltime:2
+mid:2
+bottom:2
+twice:2
+twice	tomorrow:2
+dudes:2
+dudes	age:2
+dog:2
+dog	after:2
+giving:2
+emotional:3
+emotional	feel:2
+fan:3
+blessing:3
+december:3
+mary:3
+mary	original:2
+taking:3
+taking	elvis:2
+college:3
+college	mr:2
+grandma:3
+grandpa:3
+sir:3
+sir	wonderful:2
+sir	next:2
+wonderful	sir	next:2
+blues:3
+blues	doubt:2
+rhythm:3
+blow:3
+showing:3
+quality:3
+quality	sound:2
+drums:3
+drums	jim:2
+innocent:3
+interpretation:3
+whose:3
+album:3
+album	single:2
+unbelievable:3
+broken:3
+fell:3
+wanna:3
+deserved:3
+deserved	probably:2
+deserved	credit:2
+probably	deserved	credit:2
+youth:3
+trailer:3
+trailer	go:2
+trailer	let:2
+go	trailer	let:2
+job:3
+job	go:2
+side:3
+prefer:3
+michael:3
+presley:3
+presley	elvis:2
+presley	mr:2
+whenever:3
+davis:3
+school:3
+son:3
+while:3
+arent:3
+line:3
+line	excellent:2
+memories:3
+beyond:3
+soulful:3
+touch:3
+share:3
+ask:3
+knowing:3
+forgotten:3
+vintage:3
+entertainer:3
+entertainer	greatest:3
+beginning:3
+definitely:3
+style:3
+minutes:3
+studio:3
+glen:3
+glen	over:2
+glen	james:2
+over	glen	james:2
+call:3
+call	another:2
+call	thing:2
+sent:3
+compared:3
+compared	others:2
+backing:3
+loves:3
+loves	year:2
+loves	daughter:2
+year	loves	daughter:2
+missed:3
+missed	fantastic:2
+missed	into:2
+house:3
+house	sounds:2
+own:3
+wished:3
+looked:3
+doesnt:3
+doesnt	every:2
+ended:3
+locklin:3
+locklin	thats:2
+recorded:3
+recorded	single:2
+stand:3
+stand	cant:2
+stand	favorite:2
+cant	stand	favorite:2
+photo:3
+photo	youtube:2
+post:3
+post	young:2
+shared:3
+shared	us:2
+grandparents:3
+grandparents	parents:2
+means:3
+quite:3
+tired:3
+fans:3
+taste:3
+englebert:3
+became:3
+getting:3
+everyday:3
+everyday	break:2
+everyday	wake:2
+break	everyday	wake:2
+presence:3
+stay:3
+mans:3
+try:3
+try	our:2
+each:3
+crafted:3
+musicians:3
+performed:3
+watching:3
+watching	even:2
+match:3
+teresa:3
+hill:3
+dynamite:3
+dynamite	miss:2
+little	dynamite	miss:2
+dynamite	little:3
+vaughan:3
+vaughan	frankie:2
+gives:3
+male:3
+male	vocalist:2
+scary:3
+message:3
+breath:3
+breath	away:2
+breath	takes:2
+away	breath	takes:2
+exactly:3
+lyric:3
+channel:3
+sway:3
+sway	go:3
+weak:3
+weak	go:3
+weak	sway:3
+go	weak	sway:3
+headphones:3
+headphones	down:2
+valentine:3
+certain:3
+help:3
+help	anything:2
+help	done:2
+child:3
+seeing:3
+seeing	after:2
+feels:3
+add:3
+add	didnt:2
+list:3
+pictures:3
+missing:3
+doing:3
+theyre:3
+second:3
+second	should:2
+second	loving:2
+should	second	loving:2
+fits:3
+fits	tell:2
+huge:3
+melancholy:3
+melancholy	full:2
+perform:3
+youll:3
+million:3
+million	perfect:2
+describe:3
+sadly:3
+sadly	era:2
+send:3
+send	first:2
+somehow:3
+morning:3
+himself:3
+honest:3
+instruments:3
+moving:3
+titans:3
+supernatural:3
+bought:3
+creation:3
+excellent:3
+kinds:3
+imagine:3
+imagine	through:2
+imagine	passed:2
+richard:3
+richard	credit:2
+similar:3
+themselves:3
+evergreen:3
+brother:3
+problem:3
+problem	say:2
+problem	see:2
+problem	lived:2
+problem	lived	see:2
+gave:3
+dead:3
+dead	our:2
+wait:3
+kids:3
+kids	born:2
+currently:3
+currently	age:2
+currently	pretty:2
+age	currently	pretty:2
+months:3
+months	remember:2
+nothings:3
+nothings	gonna:2
+change	nothings	gonna:2
+nothings	change:3
+soft:3
+soft	where:2
+scott:3
+scott	anymore:2
+scott	gonna:2
+anymore	scott	gonna:2
+scott	shine:2
+anymore	scott	shine:2
+gonna	scott	shine:2
+anymore	gonna	scott	shine:2
+scott	sun:2
+anymore	scott	sun:2
+gonna	scott	sun:2
+shine	scott	sun:2
+anymore	gonna	scott	sun:2
+anymore	shine	scott	sun:2
+gonna	shine	scott	sun:2
+anymore	gonna	shine	scott	sun:2
+scott	aint:2
+anymore	scott	aint:2
+gonna	scott	aint:2
+shine	scott	aint:2
+sun	scott	aint:2
+anymore	gonna	scott	aint:2
+anymore	shine	scott	aint:2
+anymore	sun	scott	aint:2
+gonna	shine	scott	aint:2
+gonna	sun	scott	aint:2
+shine	sun	scott	aint:2
+anymore	gonna	shine	scott	aint:2
+anymore	gonna	sun	scott	aint:2
+anymore	shine	sun	scott	aint:2
+gonna	shine	sun	scott	aint:2
+anymore	gonna	shine	sun	scott	aint:2
+thinks:3
+easy:3
+although:4
+although	lol:2
+later:4
+place:4
+father:4
+along:4
+along	live:2
+along	jim:2
+generations:4
+generations	true:2
+word:4
+word	understand:2
+every	word	understand:2
+word	mother:2
+word	mother	every:2
+word	every:3
+boy:4
+boy	girl:2
+takes:4
+takes	says:2
+takes	away:3
+four:4
+four	three:2
+childhood:4
+childhood	friends:2
+stop:4
+stop	first:2
+stop	ive:2
+stop	seen:2
+stop	cant:2
+beatles:4
+doubt:4
+doubt	greatest:2
+magic:4
+short:4
+talking:4
+talking	through:2
+beat:4
+beat	classic:2
+powerful:4
+saw:4
+saw	comment:2
+met:4
+met	couple:2
+met	because:2
+able:4
+able	credit:2
+loss:4
+alone:4
+alone	being:2
+alone	cant:2
+alone	put:2
+show:4
+show	things:2
+show	because:2
+wrote:4
+wrote	where:2
+popular:4
+popular	band:2
+shame:4
+comments:4
+idea:4
+idea	until:2
+read:4
+appreciated:4
+appreciated	may:2
+often:4
+th:4
+sorrow:4
+sorrow	full:2
+sort:4
+half:4
+half	name:2
+concert:4
+james:4
+james	greatest:2
+james	over:3
+white:4
+earth:4
+earth	heaven:2
+however:4
+incredible:4
+angel:4
+angel	see:2
+angel	around:2
+angel	us:2
+died:4
+died	eyes:2
+john:4
+john	over:2
+superb:4
+wasnt:4
+talented:4
+lonely:4
+lonely	without:2
+feelings:4
+stuff:4
+brings:4
+brings	tears:3
+both:4
+pleasure:4
+recordings:4
+piano:4
+isnt:4
+beauty:4
+beauty	understand:2
+wife:4
+wife	lovely:2
+wife	gonna:2
+clip:4
+harmonies:4
+intro:4
+intro	tune:2
+weeks:4
+weeks	thanks:2
+weeks	couple:2
+weeks	couple	ago:2
+weeks	ago:3
+sorry:4
+enough:4
+enough	long:2
+seems:4
+seems	didnt:2
+seems	ago:2
+seems	ago	didnt:2
+seems	first:2
+seems	where:2
+first	seems	where:2
+living:4
+type:4
+type	singers:2
+dean:4
+dean	wonderful:2
+frankie:4
+frankie	original:2
+frankie	brothers:2
+frankie	walker:2
+frankie	walker	brothers:2
+running:4
+actress:4
+actress	does:2
+anyone	actress	does:2
+actress	anyone:3
+lee:4
+lee	hit:2
+lee	hit	brenda:2
+lee	youtube:2
+lee	youtube	brenda:2
+lee	anymore:2
+brenda	lee	anymore:2
+lee	brenda:4
+sironaca:4
+men:4
+men	women:4
+everything:4
+meaningful:4
+might:4
+might	single:2
+outstanding:4
+movies:4
+light:4
+moment:4
+reason:4
+garbage:4
+garbage	crap:2
+garbage	gonna:2
+garbage	agree:2
+gonna	garbage	agree:2
+tire:4
+female:4
+seemed:4
+gets:4
+cool:4
+cool	romantic:2
+car:4
+disco:4
+disco	dancing:2
+disco	even:2
+night:4
+night	see:2
+night	say:2
+crying:4
+crying	feel:2
+myself:4
+myself	thought:2
+myself	sweet:2
+laugh:4
+laugh	into:2
+laugh	playing:2
+laugh	guys:2
+hair:4
+hair	age:2
+crazy:4
+crazy	being:2
+since:4
+since	bad:2
+tomorrow:4
+tomorrow	anyone:2
+tomorrow	may:2
+leo:4
+reeves:5
+reeves	jim:5
+leave:5
+leave	us:2
+st:5
+st	name:2
+number:5
+number	uk:2
+number	little:2
+ill:5
+ill	generation:2
+ill	future:2
+remember:5
+mr:5
+mr	top:2
+roll:5
+roll	played:2
+rock	roll	played:2
+roll	rock:5
+die:5
+mother:5
+mother	every:2
+three:5
+three	times:2
+knew:5
+knew	made:2
+knew	also:2
+made	knew	also:2
+knew	lived:2
+knew	history:2
+id:5
+dear:5
+dear	friend:2
+friends:5
+friends	cant:2
+mom:5
+magnificent:5
+credit:5
+credit	well:2
+credit	probably:2
+sharing:5
+found:5
+cause:5
+cause	ive:2
+cause	loving:2
+attention:5
+attention	live:2
+bass:5
+forget:5
+underrated:5
+legend:5
+legend	true:2
+vocal:5
+vocal	young:2
+black:5
+black	thing:2
+natural:5
+talent:5
+aint:5
+aint	country:2
+aint	walker:2
+aint	walker	anymore:2
+aint	walker	gonna:2
+anymore	aint	walker	gonna:2
+aint	walker	shine:2
+anymore	aint	walker	shine:2
+gonna	aint	walker	shine:2
+anymore	gonna	aint	walker	shine:2
+aint	walker	sun:2
+anymore	aint	walker	sun:2
+gonna	aint	walker	sun:2
+shine	aint	walker	sun:2
+anymore	gonna	aint	walker	sun:2
+anymore	shine	aint	walker	sun:2
+gonna	shine	aint	walker	sun:2
+anymore	gonna	shine	aint	walker	sun:2
+aint	anymore:3
+aint	gonna:3
+anymore	aint	gonna:3
+aint	shine:3
+anymore	aint	shine:3
+gonna	aint	shine:3
+anymore	gonna	aint	shine:3
+aint	sun:3
+anymore	aint	sun:3
+gonna	aint	sun:3
+shine	aint	sun:3
+anymore	gonna	aint	sun:3
+anymore	shine	aint	sun:3
+gonna	shine	aint	sun:3
+anymore	gonna	shine	aint	sun:3
+group:5
+past:5
+past	age:2
+past	few:2
+tunes:5
+tunes	made:2
+create:5
+certainly:5
+certainly	does:2
+gorgeous:5
+face:5
+face	see:2
+awesome:5
+soon:5
+soon	left:2
+thinking:5
+thinking	away:2
+thinking	feel:2
+thinking	lost:2
+feel	thinking	lost:2
+low:5
+low	feel:2
+low	feeling:2
+feel	low	feeling:2
+making:5
+vocalist:5
+vocalist	uk:2
+performance:5
+together:5
+together	work:2
+together	say:2
+together	put:2
+use:5
+bit:5
+bit	little:2
+big:5
+big	every:2
+big	girl:2
+every	big	girl:2
+rip:5
+rip	first:2
+rip	roy:2
+door:5
+door	next:2
+totally:5
+totally	unique:2
+two:5
+two	passed:2
+two	even:2
+actually:5
+anything:5
+hearing:5
+hearing	first:2
+behind:5
+behind	made:2
+behind	look:2
+made	behind	look:2
+anybody:5
+anybody	else:2
+touching:5
+touching	nowadays:2
+star:5
+star	see:2
+course:5
+break:5
+wake:5
+wake	break:2
+comes:5
+comes	original:2
+comes	friend:2
+learn:5
+learn	english:2
+modern:5
+record:5
+class:5
+class	pop:2
+far:5
+far	go:2
+far	early:2
+vocals:5
+likes:5
+women:5
+everytime:5
+clear:5
+karen:5
+karen	clear:3
+track:5
+track	especially:2
+golden:6
+golden	age:4
+close:6
+close	eyes:2
+close	see:2
+close	elvis:2
+goes:6
+guess:6
+guess	well:2
+guess	go:2
+guess	times:2
+next:6
+next	wonderful:2
+baby:6
+baby	days:2
+baby	told:2
+different:6
+brought:6
+early:6
+early	era:2
+early	classics:2
+era	early	classics:2
+gone:6
+gone	elvis:2
+gone	days:2
+parents:6
+started:6
+started	cant:2
+story:6
+done:6
+done	well:2
+playing:6
+playing	thanks:2
+playing	around:2
+classics:6
+classics	pop:2
+classics	era:2
+must:6
+must	say:2
+must	original:2
+cry:6
+cry	makes:4
+care:6
+hard:6
+hard	cant:2
+hard	because:2
+hard	ive:2
+hard	lost:2
+hard	work:2
+keep:6
+keep	cant:2
+keep	because:2
+given:6
+given	back:2
+given	brilliant:2
+said:6
+said	well:2
+said	times:2
+said	believe:2
+said	go:2
+gold:6
+gold	top:2
+gold	pure:3
+daughter:6
+daughter	dance:2
+daughter	year:2
+happened:6
+happened	wonder:2
+happened	lost:2
+crap:6
+crap	right:2
+last:6
+take:6
+take	meaning:2
+looks:6
+looks	go:2
+peace:6
+peace	see:2
+peace	rest:2
+see	peace	rest:2
+else:6
+else	elvis:2
+else	other:2
+yet:6
+theres:6
+theres	something:2
+agree:6
+agree	gonna:2
+agree	person:2
+agree	let:2
+artists:6
+start:6
+start	where:2
+truly:6
+truly	classic:2
+uk:6
+uk	us:2
+uk	away:2
+unique:6
+unique	voices:2
+english:6
+english	understand:2
+english	first:2
+glad:6
+youre:6
+screen:6
+matter:6
+matter	times:2
+stars:6
+stars	movie:2
+melody:6
+melody	other:2
+melody	golden:2
+dancing:6
+dancing	favorite:2
+dancing	feel:2
+dancing	dance:2
+dancing	around:2
+dream:6
+dream	true:2
+hey:6
+hey	play:2
+hey	other:2
+sweet:6
+sweet	thought:2
+sweet	after:2
+billy:6
+timeless:6
+couple:6
+couple	fantastic:2
+couple	ago:2
+need:6
+need	didnt:2
+brenda:6
+brenda	emotion:2
+brenda	hit:2
+brenda	youtube:2
+brenda	anymore:2
+funny:6
+sun:6
+sun	walker:2
+shine	sun	walker:2
+gonna	sun	walker:2
+anymore	sun	walker:2
+shine	gonna	sun	walker:2
+shine	anymore	sun	walker:2
+gonna	anymore	sun	walker:2
+shine	gonna	anymore	sun	walker:2
+sun	anymore:3
+shine	sun	anymore:3
+gonna	sun	anymore:3
+shine	gonna	sun	anymore:3
+sun	gonna:4
+shine	sun	gonna:4
+sun	shine:5
+shine:6
+shine	walker:2
+gonna	shine	walker:2
+anymore	shine	walker:2
+gonna	anymore	shine	walker:2
+shine	anymore:3
+gonna	shine	anymore:3
+shine	gonna:4
+loving:7
+loving	true:2
+loving	says:2
+loving	after:2
+loving	should:2
+king:7
+king	elvis:2
+radio:7
+radio	rock:2
+radio	play:3
+radio	played:3
+top:7
+top	single:2
+top	called:2
+least:7
+least	thanks:2
+least	jim:2
+maybe:7
+maybe	well:2
+maybe	thing:2
+off:7
+off	fantastic:2
+appreciate:7
+appreciate	days:2
+appreciate	thanks:2
+days	appreciate	thanks:2
+oh:7
+oh	enjoy:2
+oh	another:2
+oh	meaning:2
+shes:7
+shes	movie:2
+background:7
+background	name:2
+probably:7
+probably	because:2
+probably	into:2
+probably	lol:2
+told:7
+told	because:2
+told	going:2
+miss:7
+miss	elvis:2
+miss	singers:2
+miss	forever:2
+miss	forever	elvis:2
+miss	little:2
+lived:7
+lived	see:2
+left:7
+left	right:2
+left	us:2
+grew:7
+until:7
+masterpiece:7
+masterpiece	sound:2
+rest:7
+rest	see:2
+laura:7
+laura	friend:2
+laura	name:3
+history:7
+history	greatest:2
+history	made:2
+artist:7
+written:7
+written	may:2
+written	tune:2
+may	written	tune:2
+written	artist:2
+written	pop:3
+heaven:7
+heaven	after:2
+heaven	fantastic:2
+roy:7
+roy	feeling:2
+todays:7
+passed:7
+passed	away:3
+hits:7
+hits	understand:2
+hits	well:2
+hits	classic:2
+hits	country:2
+hits	into:2
+hits	sang:2
+hits	sang	into:2
+everyone:7
+comment:7
+comment	youtube:2
+also:7
+also	made:2
+also	which:2
+especially:7
+especially	may:2
+especially	tune:2
+especially	anymore:2
+walker:7
+walker	anymore:2
+walker	gonna:2
+walker	gonna	anymore:2
+walker	made:2
+walker	may:2
+walker	cant:2
+walker	brothers:5
+jim:8
+jim	days:2
+jim	thanks:2
+jim	live:2
+hope:8
+future:8
+future	new:2
+used:8
+used	rock:2
+late:8
+late	anyone:2
+late	into:2
+meaning:8
+meaning	around:2
+rock:8
+rock	country:2
+rock	played:2
+rock	pop:2
+part:8
+part	generation:2
+part	where:2
+absolutely:8
+absolutely	forever:2
+posting:8
+posting	wonderful:2
+posting	thanks:4
+home:8
+home	first:2
+home	hit:2
+through:8
+through	see:2
+through	back:2
+let:8
+let	gonna:2
+let	tell:2
+let	go:3
+give:8
+lost:8
+lost	feel:2
+lost	even:2
+going:8
+going	because:2
+going	change:2
+woman:8
+woman	lot:2
+woman	fantastic:3
+brothers:8
+brothers	thanks:2
+brothers	original:2
+pure:8
+pure	go:2
+bad:8
+listened:8
+listened	before:2
+listened	away:2
+listened	times:2
+once:8
+once	sound:2
+once	seen:2
+looking:8
+looking	yes:2
+looking	without:2
+looking	well:2
+bless:8
+bless	wonderful:2
+bless	may:2
+wonderful	bless	may:2
+bless	fantastic:2
+bless	family:2
+bless	greatest:2
+bless	forever:2
+bless	forever	greatest:2
+handsome:8
+handsome	look:2
+whats:8
+whats	fantastic:2
+whats	greatest:2
+fantastic	whats	greatest:2
+whats	anymore:2
+whats	wrong:2
+mean:8
+mean	another:2
+mean	guy:2
+change:8
+change	feeling:2
+gonna	change	feeling:2
+change	bad:2
+change	without:2
+change	gonna:3
+sang:8
+sang	into:2
+sang	emotion:2
+sang	original:2
+sang	which:2
+sang	hit:3
+guys:8
+guys	go:2
+full:8
+full	yes:2
+full	emotion:2
+full	pop:2
+favorites:9
+favorites	sure:2
+special:9
+special	our:2
+special	sure:2
+nothing:9
+nothing	being:2
+soul:9
+mind:9
+mind	away:2
+family:9
+family	wonderful:2
+family	favorite:2
+family	every:2
+ones:9
+ones	young:2
+ones	era:2
+ones	because:2
+things:9
+things	because:2
+others:9
+others	age:2
+thing:9
+thing	thats:2
+thing	anymore:2
+please:9
+please	person:2
+please	anyone:3
+though:9
+though	even:2
+though	around:2
+though	few:2
+though	didnt:2
+few	though	didnt:2
+wonder:9
+wonder	hit:2
+wonder	makes:2
+person:9
+person	down:2
+person	say:2
+person	elvis:2
+person	yes:3
+sings:9
+sings	every:2
+sings	hes:2
+sung:9
+sung	elvis:2
+sung	emotion:2
+year:9
+year	born:2
+perfect:9
+perfect	classic:2
+born:9
+born	even:2
+happy:9
+almost:9
+almost	every:2
+end:9
+end	go:2
+end	same:2
+end	back:2
+end	around:3
+hes:10
+hes	lovely:2
+hes	well:2
+long:10
+long	before:2
+long	yes:2
+long	ago:3
+long	first:3
+long	live:3
+says:10
+says	gonna:2
+says	after:2
+says	true:3
+band:10
+band	being:2
+band	made:2
+other:10
+other	before:2
+other	age:2
+called:10
+called	hit:2
+called	because:2
+called	being:2
+lol:10
+words:10
+words	days:2
+emotion:10
+emotion	feeling:3
+tell:10
+tell	someone:2
+movie:10
+movie	wonderful:2
+movie	first:2
+movie	age:3
+believe:10
+believe	cant:2
+believe	first:2
+believe	feel:2
+believe	again:2
+believe	another:2
+believe	someone:2
+ago:10
+ago	see:2
+ago	few:2
+see	ago	few:2
+ago	didnt:2
+ago	find:2
+friend:10
+friend	name:2
+lady:10
+lady	favorite:2
+lady	lovely:2
+favorite	lady	lovely:2
+down:10
+down	young:2
+eyes:10
+eyes	see:3
+eyes	see	tears:2
+eyes	tears:5
+want:10
+want	made:2
+understand:10
+understand	every:2
+thats:10
+thats	called:2
+thats	say:2
+thats	work:2
+say	thats	work:2
+generation:11
+generation	youtube:2
+generation	play:2
+generation	new:3
+hit:11
+hit	anymore:2
+hit	new:2
+hit	single:2
+which:11
+which	wonderful:2
+which	well:2
+which	hit:2
+which	every:2
+which	nowadays:2
+every	which	nowadays:2
+enjoy:11
+yes:11
+yes	came:2
+yes	after:2
+yes	made:2
+yes	see:2
+made	yes	see:2
+yes	being:2
+yes	being	made:2
+yes	being	see:2
+made	yes	being	see:2
+put:11
+put	favorite:2
+someone:11
+someone	little:2
+someone	age:2
+someone	feel:2
+away:11
+away	first:2
+away	tears:2
+work:11
+work	say:2
+work	single:2
+work	greatest:2
+work	brilliant:2
+does:11
+does	well:2
+does	thanks:2
+does	anyone:5
+find:11
+find	where:2
+find	first:2
+find	cant:2
+look:11
+look	sound:2
+look	back:2
+look	around:2
+look	made:2
+look	seen:2
+didnt:11
+didnt	well:2
+didnt	being:2
+well	didnt	being:2
+didnt	few:2
+didnt	where:2
+voices:11
+voices	little:2
+voices	thanks:2
+voices	us:2
+voices	greatest:2
+tune:11
+tune	may:2
+thought:11
+thought	say:2
+thought	again:2
+thought	may:2
+thought	elvis:2
+thought	first:3
+sure:11
+sure	another:2
+kind:11
+nowadays:11
+nowadays	every:2
+dance:11
+romantic:11
+romantic	classic:2
+lot:11
+lot	see:2
+lot	another:2
+lot	around:2
+pretty:11
+pretty	pop:2
+pretty	age:2
+pretty	era:2
+gonna:11
+gonna	new:2
+gonna	feeling:2
+gonna	anymore:4
+sounds:12
+sounds	every:2
+sounds	before:2
+sounds	live:2
+brilliant:12
+brilliant	well:2
+girl:12
+girl	little:2
+girl	every:3
+around:12
+around	go:2
+around	right:2
+tears:12
+tears	into:2
+tears	see:2
+single:12
+single	girl:2
+every	single	girl:2
+single	every:4
+wrong:12
+wrong	something:4
+few:12
+few	days:2
+few	see:2
+few	little:2
+few	every:2
+few	again:2
+few	again	every:2
+few	being:2
+lovely:12
+lovely	play:2
+lovely	favorite:2
+lovely	same:2
+times:12
+times	same:2
+guy:12
+guy	days:2
+guy	elvis:2
+guy	another:3
+play:13
+play	every:2
+play	era:2
+played:13
+right:13
+right	over:2
+seen:13
+seen	go:2
+seen	anyone:2
+seen	ive:4
+something:13
+our:13
+our	because:2
+our	us:2
+may:13
+may	first:2
+cant	may	first:2
+may	ive:2
+may	without:2
+may	wonderful:2
+may	cant:3
+being:13
+being	well:2
+being	singers:2
+being	because:2
+being	after:2
+being	after	because:2
+being	see:2
+made	being	see:2
+being	anymore:2
+being	anymore	made:2
+being	made:4
+youtube:13
+youtube	thanks:2
+new:14
+new	anymore:2
+into:14
+into	well:2
+into	even:2
+into	go:2
+into	another:2
+into	feeling:2
+into	thanks:2
+wow:14
+wow	wonderful:2
+name:14
+name	anyone:2
+name	over:2
+name	without:2
+pop:14
+pop	era:2
+should:14
+should	sound:2
+should	every:2
+feeling:14
+feeling	feel:2
+same:14
+same	another:2
+same	greatest:2
+original:14
+original	where:2
+original	feeling:2
+original	into:2
+era:14
+era	sound:2
+era	true:2
+era	fantastic:2
+era	back:3
+era	say:3
+era	say	back:2
+again:15
+again	thanks:2
+again	true:2
+again	young:2
+again	every:3
+forever:15
+forever	favorite:2
+forever	greatest:3
+forever	elvis:4
+ive:15
+ive	see:2
+ive	came:2
+ive	came	see:2
+ive	feel:2
+ive	before:2
+ive	first:4
+live:15
+live	forever:2
+live	again:2
+anymore:15
+anymore	singers:2
+anymore	cant:2
+anymore	made:2
+anymore	country:2
+anymore	every:2
+after:15
+after	see:2
+after	see	say:2
+after	anyone:2
+true	after	anyone:2
+after	because:2
+after	even:3
+after	say:3
+after	true:3
+after	came:3
+where:15
+where	first:3
+without:15
+without	wonderful:2
+without	first:2
+singers:16
+singers	little:2
+came:16
+came	before:2
+came	see:2
+greatest:16
+greatest	fantastic:2
+greatest	elvis:2
+country:16
+country	well:2
+country	classic:2
+country	cant:2
+sound:16
+sound	makes:2
+sound	back:2
+us:16
+us	age:2
+little:16
+little	cant:2
+before:16
+before	go:2
+before	first:2
+even:16
+even	classic:2
+even	see:2
+over:16
+over	days:2
+over	elvis:2
+say:16
+say	back:2
+say	true:2
+say	see:2
+say	because:2
+feel:17
+feel	makes:4
+back:17
+true:17
+true	anyone:2
+true	back:2
+anyone:17
+anyone	well:2
+anyone	go:2
+fantastic:17
+fantastic	young:2
+fantastic	cant:2
+another:17
+because:17
+because	elvis:2
+makes:18
+age:19
+age	well:2
+age	wonderful:2
+young:19
+young	see:2
+young	age:4
+made:19
+thanks:19
+thanks	every:2
+thanks	days:2
+thanks	cant:2
+classic:19
+classic	cant:2
+go:19
+go	favorite:2
+go	first:2
+see:19
+see	elvis:2
+see	made:2
+days:20
+elvis:20
+well:20
+wonderful:20
+wonderful	well:2
+favorite:20
+favorite	cant:2
+favorite	first:2
+cant:20
+cant	first:2
+every:21
+first:22
